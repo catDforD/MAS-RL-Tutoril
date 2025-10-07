@@ -1,12 +1,12 @@
-# 🧠 MAS-RL-Tutorial | 多智能体强化学习实战教程
+# 🧠 MAS-RL-Tutorial | 多智能体强化学习笔记
 
-> 🚀 一步步动手实践，从 Gymnasium 到 PettingZoo，带你走进多智能体强化学习的世界。
+> 🚀 一步步动手实践，从 Gymnasium 到 PettingZoo，走进多智能体强化学习的世界。
 
 ---
 
 ## 🌍 项目简介
 
-这个仓库是我学习 **强化学习（Reinforcement Learning, RL）** 和 **多智能体强化学习（Multi-Agent Reinforcement Learning, MARL）** 的一些案例。
+这个仓库是本人学习 **强化学习（Reinforcement Learning, RL）** 和 **多智能体强化学习（Multi-Agent Reinforcement Learning, MARL）** 的一些案例。
 
 内容以 **[Gymnasium](https://gymnasium.farama.org/)** 为起点，逐步深入到 **[PettingZoo](https://pettingzoo.farama.org/)** 多智能体环境。
 目标是从「能跑起来」到「能理解」，再到「能扩展」🎯。
